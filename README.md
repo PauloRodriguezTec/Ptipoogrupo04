@@ -1,11 +1,4 @@
+# Sobre
 
-  # Class Diagram Creation
-
-  This is a code bundle for Class Diagram Creation. The original project is available at https://www.figma.com/design/l75YOMxNNwQhT8oGvFu0uD/Class-Diagram-Creation.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+Trata-se de um projeto de gestão de dados de uma universidade. Construímos um sistema de cadastro de alunos, professores e fornecedores de uma universidade. O projeto foi elaborado no 3º semestre do curso de Análise e Desenvolvimento de Sistemas do SENAC, como parte da disciplina de Projeto Integrador.
   
